@@ -32,7 +32,7 @@
 
 **TABULATION**
 
-<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/b3aaecaa-d77b-4dfc-abf3-d1801537ba74" />
+![image tb2](https://github.com/dhanushd30032008-wq/2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS/blob/c9fc5ec79e582f950566c3bd9e17532ccdd9fc87/ex_2.tb%5B1%5D.pdf)
 
 
 
