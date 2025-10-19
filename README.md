@@ -22,10 +22,7 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-<img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/c3cab4d5-7403-4f9e-ad33-71ec5f130b41" />
+![image cd2](https://github.com/dhanushd30032008-wq/2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS/blob/6c25f269fc74f7c77860c54a68adbe4517470847/ex_2.cd%5B1%5D.pdf)
 
 
 
