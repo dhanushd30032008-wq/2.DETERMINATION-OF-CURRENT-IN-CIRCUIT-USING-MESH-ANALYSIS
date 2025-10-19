@@ -64,7 +64,7 @@
 
 
 
-<img width="940" height="662" alt="image" src="https://github.com/user-attachments/assets/cdcc00ec-d37f-402f-93c7-05f6b8b49272" />
+![image msu2](https://github.com/dhanushd30032008-wq/2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS/blob/4e5d4f20e445d6e6a036af65f75238e93692ee90/ex_6.msu%5B1%5D.pdf)
 
 
    **RESULT:**
