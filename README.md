@@ -40,19 +40,7 @@
 
 **CALCULATION**
 
-
-
-<img width="940" height="916" alt="image" src="https://github.com/user-attachments/assets/d7b1fc63-45d9-4231-a1a5-20fdc2d5076e" />
-
-
-
-
-
-
-
-
-
-<img width="940" height="1182" alt="image" src="https://github.com/user-attachments/assets/71576e46-d7fd-4ad6-95d0-95eb82b061e3" />
+![image calci2](https://github.com/dhanushd30032008-wq/2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS/blob/61ea64c48ee993c68eb1db75ca0507d745565022/ex_2.calci%5B1%5D.pdf)
 
 
 **PROCEDURE:** 
